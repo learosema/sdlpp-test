@@ -13,5 +13,5 @@ set(CMAKE_CXX_STANDARD 20)
 # add_definitions(-DDATA_PATH="${PROJECT_SOURCE_DIR}/data")
 
 # define targets
-add_executable(sdltest test.cc)
-target_link_libraries(sdltest PRIVATE SDL2pp::SDL2pp)
+add_executable(test1 test1.cc)
+target_link_libraries(test1 PRIVATE SDL2pp::SDL2pp)
