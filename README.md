@@ -6,7 +6,7 @@ I'm roughly orienting on the libSDL2pp tutorial: <https://github.com/libSDL2pp/l
 
 ## Build process
 
-This project relies on CMake. `cmake .` creates a Makefile for you which you can build. In case you are using Visual Studio Code, the CMake extension can do this for you.
+This project relies on CMake. `cmake .` creates a Makefile for you which you can use to build the project via `make`. In case you are using Visual Studio Code, the CMake extension can do this for you.
 
 ## Apps
 
